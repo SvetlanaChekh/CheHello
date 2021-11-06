@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyDesign">
         <activity
+            android:name=".AssortiActivity"
+            android:exported="true" />
+        <activity
             android:name=".ShowActivity"
             android:exported="true" />
         <activity

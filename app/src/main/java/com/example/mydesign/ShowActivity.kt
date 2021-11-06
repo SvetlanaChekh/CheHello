@@ -1,8 +1,9 @@
 package com.example.mydesign
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
+import android.widget.TextView
 
 class ShowActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

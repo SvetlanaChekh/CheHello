@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/text_button"
+        android:id="@+id/show_button"
         style="@style/Theme.MyDesign.Button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
